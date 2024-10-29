@@ -4,7 +4,7 @@ collection: teaching
 type: "weekend courses"
 permalink: /teaching/2023-autumn-teaching-1
 venue: "Guitar Association of Peking University"
-date: 2023-10-
+date: 2023-10-14
 location: "Beijing, China"
 ---
 
