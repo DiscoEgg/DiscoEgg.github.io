@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shunshun Cao's page"
+title: "Shunshun Cao homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,5 +19,4 @@ Pulsars emit signals from radio to gamma-ray wave bands. Related celestial objec
 
 Links
 ======
-Orcid: https://orcid.org/0009-0007-3817-8188
 Researchgate: https://www.researchgate.net/profile/Shunshun-Cao
