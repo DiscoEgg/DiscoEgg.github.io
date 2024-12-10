@@ -10,4 +10,4 @@ location: "2907"
 
 [Slides](http://DiscoEgg.github.io/files/cheng_ruderman_1979.pdf)
 
-Talk on the paper https://ui.adsabs.harvard.edu/abs/1979ApJ...229..348C/abstract, in PKU pulsar group by me.
+Talk on the paper https://ui.adsabs.harvard.edu/abs/1979ApJ...229..348C/abstract, at Peking University's pulsar group by me.
