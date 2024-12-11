@@ -35,4 +35,14 @@ In Peking University pulsar group seminars, we share our paper reading and discu
 
 [Slides (202304) for Sobyanin 2023](http://DiscoEgg.github.io/files/sobyanin_202304.pdf)
 
-[Slides (202205) for Caleb et al. 2023](http://DiscoEgg.github.io/files/202205_Caleb_76s.pdf)
+[Slides (202303) for Basu et al. 2023](http://DiscoEgg.github.io/files/basu_2023_spark_03.pdf)
+
+[Slides (202207) for Adac et al. 2022](http://DiscoEgg.github.io/files/adac_plasmoid_202205_07.pdf)
+
+[Slides (202206) for Cruz et al. 2022](http://DiscoEgg.github.io/files/cruz_etal2022_cascade_06.pdf)
+
+[Slides (202205) for Caleb et al. 2022](http://DiscoEgg.github.io/files/202205_Caleb_76s.pdf)
+
+[Slides (202205) for Oswald 2019](http://DiscoEgg.github.io/files/oswald_2019_2205.pdf)
+
+[Slides (202204) for Dyks 2022](http://DiscoEgg.github.io/files/dyks_2022_2204.pdf)
