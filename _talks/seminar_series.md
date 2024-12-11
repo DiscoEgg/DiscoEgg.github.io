@@ -11,6 +11,8 @@ In Peking University pulsar group seminars, we share our paper reading and discu
 
 [Slides (202412) for Dyks 2023](http://DiscoEgg.github.io/files/2023_dyks_psr_scattering_of_curvature.pdf)
 
+[Notes (202411) for Timokhin 2010/2006](http://DiscoEgg.github.io/files/timokhin2010_notes.pdf)
+
 [Slides (202410) for Chernoglazov et al. 2024](http://DiscoEgg.github.io/files/2024_chernoglazov_etal_coherence_simulation.pdf)
 
 [Notes (202406) for Amato 2024](https://zhuanlan.zhihu.com/p/707283864)
@@ -23,6 +25,14 @@ In Peking University pulsar group seminars, we share our paper reading and discu
 
 [Slides (202403) for Cheng & Ruderman 1979](http://DiscoEgg.github.io/files/cheng_ruderman_1979.pdf)
 
+[Notes (202312) for Beskin 2018](http://DiscoEgg.github.io/files/beskin_2018_note.pdf)
+
 [Notes (202312) for Cheng & Ruderman 1977](http://DiscoEgg.github.io/files/cheng_ruderman1977note.pdf)
 
 [Slides (202311) for Petrova 2001](http://DiscoEgg.github.io/files/petrova_2001_opm_origin.pdf)
+
+[Slides (202311) for Zhang & Deng 2014](http://DiscoEgg.github.io/files/zhang_deng_2014_2311.pdf)
+
+[Slides (202304) for Sobyanin 2023](http://DiscoEgg.github.io/files/sobyanin_202304.pdf)
+
+[Slides (202205) for Caleb et al. 2023](http://DiscoEgg.github.io/files/202205_Caleb_76s.pdf)
