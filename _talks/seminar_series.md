@@ -9,6 +9,8 @@ location: "2907"
 ---
 In Peking University pulsar group seminars, we share our paper reading and discuss with each other. I put my slides or notes of my paper reading series here.
 
+[Slides (202503) for Budden 1952](http://DiscoEgg.github.io/files/budden1952.pdf)
+
 [Slides (202502) for Spencer & Mitchell 2025](http://DiscoEgg.github.io/files/2025_PWN_multiplicity.pdf)
 
 [Slides (202412) for Dyks 2023](http://DiscoEgg.github.io/files/2023_dyks_psr_scattering_of_curvature.pdf)
