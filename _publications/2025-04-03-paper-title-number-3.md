@@ -1,5 +1,5 @@
 ---
-title: "Rapid Rotation of Polarization Orientations in PSR B1919+21&#39 s Single Pulses: Implications on `Pulsar's` Magnetospheric Dynamics"
+title: "Rapid Rotation of Polarization Orientations in PSR B1919+21&#39;s Single Pulses: Implications on `Pulsar's` Magnetospheric Dynamics"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-03-paper-title-number-3
