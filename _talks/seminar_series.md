@@ -4,10 +4,12 @@ collection: talks
 type: "Seminar Paper Reading"
 permalink: /talks/seminar_series
 venue: "PKU pulsar group"
-date: 2025-04-13
+date: 2025-04-27
 location: "pku astro"
 ---
 In Peking University pulsar group seminars, we share our paper reading and discuss with each other. I put my slides or notes of my paper reading series here.
+
+[Slides (202504) for introducing pulsar magnetospheres and radiative processes (at KIAA-gravity)](http://DiscoEgg.github.io/files/psr_mag_rad.pdf)
 
 [Slides (202504) for Lyubarskii & Petrova 1999](http://DiscoEgg.github.io/files/lyubarskii_petrova1999.pdf)
 
