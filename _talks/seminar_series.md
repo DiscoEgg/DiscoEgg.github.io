@@ -23,7 +23,7 @@ In Peking University pulsar group seminars, we share our paper reading and discu
 
 [Notes (202411) for Timokhin 2010/2006](http://DiscoEgg.github.io/files/timokhin2010_notes.pdf)
 
-[Slides (202410) for Chernoglazov et al. 2024](http://DiscoEgg.github.io/files/2024_chernoglazov_etal_coherence_simulation.pdf)
+[Slides (202410) for Chernoglazov et al. 2024](http://DiscoEgg.github.io/files/2024_Chernoglazov_etal_coherence_simulation.pdf)
 
 [Notes (202406) for Amato 2024](https://zhuanlan.zhihu.com/p/707283864)
 
