@@ -4,10 +4,12 @@ collection: talks
 type: "Seminar Paper Reading"
 permalink: /talks/seminar_series
 venue: "PKU pulsar group"
-date: 2025-10-12
+date: 2025-03-08
 location: "pku astro"
 ---
 In Peking University pulsar group seminars, we share our paper reading and discuss with each other. I put my slides or notes of my paper reading series here.
+
+[Slides (202603) for Philippov & Kramer 2022](http://DiscoEgg.github.io/files/philippov_kramer2022_chap1_4.pdf)
 
 [Slides (202510) for Benacek et al. 2025](http://DiscoEgg.github.io/files/Benacek_etal_2025.pptx)
 
