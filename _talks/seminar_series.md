@@ -4,7 +4,7 @@ collection: talks
 type: "Seminar Paper Reading"
 permalink: /talks/seminar_series
 venue: "PKU pulsar group"
-date: 2025-03-08
+date: 2026-03-08
 location: "pku astro"
 ---
 In Peking University pulsar group seminars, we share our paper reading and discuss with each other. I put my slides or notes of my paper reading series here.
