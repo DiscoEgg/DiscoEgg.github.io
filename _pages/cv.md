@@ -22,11 +22,12 @@ Skills
 
 Publications
 ======
+  Below are my first-author papers. For a full publication list, please refer to ORCID on the left.
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
