@@ -1,3 +1,4 @@
+---
 title: "Pulsar electrodynamics inferred from frequency-dependent circular polarization diversity"
 collection: publications
 category: manuscripts
