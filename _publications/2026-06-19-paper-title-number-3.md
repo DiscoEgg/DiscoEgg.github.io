@@ -1,4 +1,3 @@
-<img width="756" height="468" alt="570a5e1825c9ddbfa7153b6469bca908" src="https://github.com/user-attachments/assets/5844b621-651a-432c-8b55-feacfb3c4968" />---
 title: "Pulsar electrodynamics inferred from frequency-dependent circular polarization diversity"
 collection: publications
 category: manuscripts
