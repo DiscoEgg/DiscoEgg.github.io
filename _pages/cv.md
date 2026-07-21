@@ -12,7 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D in Astrophysics, School of Physics, Peking University, 2028 (expected)
-* B.S. in Astronomy, School of Physics, Peking University, 2023
+* B.S. (honours degree) in Astronomy, School of Physics, Peking University, 2023
+
+Research Interests
+======
+* Pulsar magnetospheres: theories and observations
+* Coherent emission processes
+* Plasma
   
 Skills
 ======
