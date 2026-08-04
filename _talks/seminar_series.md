@@ -1,5 +1,5 @@
 ---
-title: "Seminar Paper Reading: presentation series"
+title: "Seminar Paper Reading: slides and notes"
 collection: talks
 type: "Seminar Paper Reading"
 permalink: /talks/seminar_series
