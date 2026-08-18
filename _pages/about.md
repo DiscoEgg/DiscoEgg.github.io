@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Here is Shunshun Cao, a PhD student at Department of Astronomy, School of Physics, Peking University. I work on observations/theories toward understanding pulsars' emission and magnetospheres. I was born in Dongyang, Zhejiang, in southeast China.
+Here is Shunshun Cao, a PhD student at Department of Astronomy, School of Physics, Peking University. I work on theories/observations toward understanding pulsars' emission and magnetospheres, as well as other astrophysical plasma processes like collisionless shocks. I was born in Dongyang, Zhejiang, in southeast China.
 
 Pulsars
 ======
