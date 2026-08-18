@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV](http://DiscoEgg.github.io/files/CV_ShunshunCao.pdf)
+
 Education
 ======
 * Ph.D in Astrophysics, School of Physics, Peking University, 2028 (expected)
